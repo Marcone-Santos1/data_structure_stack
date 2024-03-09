@@ -21,7 +21,7 @@ int main() {
         cout << "\nOptions: \n";        
         cout << "0 - stop \n";
         cout << "1 - push one element in stack \n";
-        cout << "2 - pop one element in stack \n";
+        cout << "2 - pop one element of stack \n";
         cout << "3 - print stack \n";
         cout << "Enter with a option: ";
         cin >> option;
